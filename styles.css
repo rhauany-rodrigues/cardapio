@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+#bebida1{
+    left: 40%;
+    position: relative;
+}
+#bebida2{
+    left: 40%;
+    position: relative;
+}
+#bebida3{
+    left: 40%;
+    position: relative;
+    width: 200px;
+}
+#bebida4{
+    left: 37%;
+    position: relative;
+    width: 300px;
+}
+#bebida5{
+    left: 40%;
+    position: relative;
+    width: 300px;
+}
+#bebida6{
+    left: 40%;
+    position: relative;
+    width: 200px;
+}
+#bebida7{
+    left: 32%;
+    position: relative;
+    width: 400px;
+}
+#bebida8{
+    left: 32%;
+    position: relative;
+    width: 400px;
+}
+#bebida9{
+    left: 40%;
+    position: relative;
+    width: 215px;
+}
+#bebida10{
+    left: 40%;
+    position: relative;
+    width: 215px;
+}
+h3{
+    position: relative;
+    top: +60%;
+}
+body{
+    background-color: chocolate;
+}
